@@ -14,7 +14,7 @@ Minecraft server for friends and family. Using the Better Minecraft modpack.
 ---
 ### **Java 17**
 
-1. Download Java. Goto https://www.azul.com/downloads/?package=jdk#download-openjdk.
+1. Download Java. Goto https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jdk.
 2. Scroll down and find **Windows x86 64-bit**. Download the **.msi**
 ![Download Java](images/java_download.png)
 3. Run **the .msi file** to install Java 17.
