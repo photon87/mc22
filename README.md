@@ -1,6 +1,6 @@
 ![Better Minecraft Modpack](images/better_logo.png)
 
-# Robotlegs.ca Minecraft 2022
+# Robotlegs.ca Minecraft Server 2022
 Minecraft server for friends and family. Using the Better Minecraft modpack.
 
 ---
@@ -25,7 +25,7 @@ Minecraft server for friends and family. Using the Better Minecraft modpack.
 2. Scroll down and download for Windows.
 ![Download MultiMC](images/multimc_download.png)
 3. Extract the **MultiMC** folder from the zip file.
-4. Run MultiMC from inside the folder.
+4. Run **MultiMC.exe** from inside the folder.
 ---
 ## Usage
 ### MultiMC & Minecraft Setup
@@ -54,7 +54,7 @@ Minecraft server for friends and family. Using the Better Minecraft modpack.
 
 ![MultiMC Add Instance](images/multimc_new.png)
 
-- Select "CurseForge" on the right
+- Select "CurseForge" on the left
 - Scroll the list to the right untill you find "Better Minecraft [FABRIC] - 1.18.1"
 - Click "OK"
 - MultiMC will download and install all of the Mods.
@@ -96,13 +96,32 @@ Minecraft server for friends and family. Using the Better Minecraft modpack.
 **That's it! Enjoy!**
 
 ---
+## Shaders
+### Before and After
+![Shaders Before](images/shader_before.png)
+![Shaders After](images/shader_after.png)
+### Shader Installation
+
+1. Download Complementary Shaders from https://www.curseforge.com/minecraft/customization/complementary-shaders. (Click "Download" at top right of page)
+2. In MultiMC select the "Better Minecraft" instance. Select "Edit Instance on the right.
+3. Select "Shader packs" on the left.
+![MultiMC Shader](images/multimc_shader.png)
+4. Click "Add" in the top right
+5. Select "ComplementaryShaders_v4.3.3.zip" from your Downloads folder.
+6. Click "Close".
+7. Launch Minecraft.
+8. Login to the server.
+9. Press Esc
+    - Select "Options..."
+    - Select "Video Settings..."
+    - Select "Shader Packs..."
+    - Select "ComplementaryShaders_v4.3.3.zip" from the list
+    - Click "Apply" at the bottom.
+10. Close settings screens.
+11. You can now use the "K" button to turn shaders on or off.
+
+
+---
 ## More Resources
 
 - Better Minecraft 1.81.1 Modlist https://www.curseforge.com/minecraft/modpacks/better-minecraft-modpack-new/relations/dependencies
-
-
-
-## TODO
-
-- shader
-- welcome message
