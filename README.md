@@ -3,8 +3,19 @@
 # Robotlegs.ca Minecraft Server 2022
 Minecraft server for friends and family. Using the Better Minecraft modpack.
 
----
+## Table of Contents
+  * [Windows Installation](#windows-installation)
+    + [Requirements](#requirements)
+    + [Java 17](#java-17)
+    + [MultiMC](#multimc)
+  * [Usage](#usage)
+    + [MultiMC & Minecraft Setup](#multimc---minecraft-setup)
+  * [Shaders](#shaders)
+    + [Before and After](#before-and-after)
+    + [Shader Installation](#shader-installation)
+  * [More Resources](#more-resources)
 
+---
 ## **Windows Installation**
 
 ### Requirements
@@ -97,6 +108,7 @@ Minecraft server for friends and family. Using the Better Minecraft modpack.
 
 ---
 ## Shaders
+Make your game look pretty! 😎
 ### Before and After
 ![Shaders Before](images/shader_before.png)
 ![Shaders After](images/shader_after.png)
