@@ -15,7 +15,7 @@ Minecraft server for friends and family. Using the Better Minecraft modpack.
 ### **Java 17**
 
 1. Download Java. Goto https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jdk.
-2. Scroll down and find **Windows x86 64-bit**. Download the **.msi**
+2. Scroll down and find **Windows x86 64-bit**. Download the **.msi**.
 ![Download Java](images/java_download.png)
 3. Run **the .msi file** to install Java 17.
 ---
@@ -41,7 +41,7 @@ Minecraft server for friends and family. Using the Better Minecraft modpack.
 ![Select Java Version](images/multimc_java.png)
 
 
-- Increase memory allocation. Set Maximum to atleast 4096 MiB (4GB), the more the better.
+- Increase memory allocation. Set Maximum to at least 4096 MiB (4GB), the more the better. You cannot set more than your system RAM, would not recommend more than 80%. You can always change this later.
 
 - Choose to enable analytics or not.
 
@@ -50,13 +50,13 @@ Minecraft server for friends and family. Using the Better Minecraft modpack.
 
 ![MultiMC Main Screen](images/multimc_main.png)
 
-- Click "Add Instance"
+- Click "Add Instance".
 
 ![MultiMC Add Instance](images/multimc_new.png)
 
-- Select "CurseForge" on the left
-- Scroll the list to the right untill you find "Better Minecraft [FABRIC] - 1.18.1"
-- Click "OK"
+- Select "CurseForge" on the left.
+- Scroll the list to the right until you find "Better Minecraft [FABRIC] - 1.18.1".
+- Click "OK".
 - MultiMC will download and install all of the Mods.
 
 ---
@@ -65,9 +65,9 @@ Minecraft server for friends and family. Using the Better Minecraft modpack.
 ![MultiMC Add Instance](images/multimc_profile.png)
 
 - Click "Profiles" in the top right of the main screen.
-- Select "Manage Accounts"
+- Select "Manage Accounts".
 - On the right select "Add Microsoft" or "Add Mojang" to login to your minecraft Account.
-- After you login close the setting screen.
+- After you login, close the settings screen.
 
 ---
 **Run Minecraft**
@@ -77,12 +77,12 @@ Minecraft server for friends and family. Using the Better Minecraft modpack.
 
 ![Minecraft Main Menu](images/mc_menu.png)
 
-- On the main menu select "Multiplayer"
-- Click "Add Server"
+- On the main menu select "Multiplayer".
+- Click "Add Server".
 
 ![Minecraft Multiplayer](images/mc_server.png)
 
-- For "Server Address" input `robotlegs.ca`
+- For "Server Address" input `robotlegs.ca`.
 
 - Press "Done".
 
@@ -102,20 +102,20 @@ Minecraft server for friends and family. Using the Better Minecraft modpack.
 ![Shaders After](images/shader_after.png)
 ### Shader Installation
 
-1. Download Complementary Shaders from https://www.curseforge.com/minecraft/customization/complementary-shaders. (Click "Download" at top right of page)
+1. Download Complementary Shaders from https://www.curseforge.com/minecraft/customization/complementary-shaders. (Click "Download" at top right of page).
 2. In MultiMC select the "Better Minecraft" instance. Select "Edit Instance on the right.
 3. Select "Shader packs" on the left.
 ![MultiMC Shader](images/multimc_shader.png)
-4. Click "Add" in the top right
+4. Click "Add" in the top right.
 5. Select "ComplementaryShaders_v4.3.3.zip" from your Downloads folder.
 6. Click "Close".
 7. Launch Minecraft.
 8. Login to the server.
-9. Press Esc
-    - Select "Options..."
-    - Select "Video Settings..."
-    - Select "Shader Packs..."
-    - Select "ComplementaryShaders_v4.3.3.zip" from the list
+9. Press Esc.
+    - Select "Options...".
+    - Select "Video Settings...".
+    - Select "Shader Packs...".
+    - Select "ComplementaryShaders_v4.3.3.zip" from the list.
     - Click "Apply" at the bottom.
 10. Close settings screens.
 11. You can now use the "K" button to turn shaders on or off.
