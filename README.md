@@ -1,7 +1,5 @@
-![Better Minecraft Modpack](images/better_logo.png)
-
 # Robotlegs.ca Minecraft Server 2022
-Minecraft server for friends and family. Using the Better Minecraft modpack.
+Minecraft server for friends and family. Using a custom modpack.
 
 ## Table of Contents
   * [Windows Installation](#windows-installation)
@@ -65,8 +63,8 @@ Minecraft server for friends and family. Using the Better Minecraft modpack.
 
 ![MultiMC Add Instance](images/multimc_new.png)
 
-- Select "CurseForge" on the left.
-- Scroll the list to the right until you find "Better Minecraft [FABRIC] - 1.18.1".
+- Select "Import from zip" on the left.
+- On the right type: `http://robotlegs.ca/robotlegs.zip`
 - Click "OK".
 - MultiMC will download and install all of the Mods.
 
@@ -83,11 +81,8 @@ Minecraft server for friends and family. Using the Better Minecraft modpack.
 ---
 **Run Minecraft**
 
-- Either double-click the "Better Minecraft" instance or select "Launch" on the right.
+- Either double-click the "robotlegs" instance or select "Launch" on the right.
 - The first time you load the game it will take longer.
-
-![Minecraft Main Menu](images/mc_menu.png)
-
 - On the main menu select "Multiplayer".
 - Click "Add Server".
 
